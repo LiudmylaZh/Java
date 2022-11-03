@@ -1,3 +1,9 @@
+/**
+ * Java Prof. Homework #1
+ *
+ * @author Liudmyla Zhlobinska
+ * @version 31.10 - 01.11
+ */
 public class Cat {
     private String name;
     private String color;
