@@ -9,16 +9,12 @@ public class Cat {
         this.age = String.valueOf(age);
     }
 
-    public void voice () {
+    public void voice() {
         System.out.println("meow");
     }
 
     @Override
     public String toString() {
-        return "Cat{" +
-                "name='" + name + '\'' +
-                ", color='" + color + '\'' +
-                ", age='" + age + '\'' +
-                '}';
+        return "Cat{" + "name='" + name + '\'' + ", color='" + color + '\'' + ", age='" + age + '\'' + '}';
     }
 }
