@@ -1,6 +1,6 @@
 package homework4;
 /**
- * Java Prof. Homework #3
+ * Java Prof. Homework #4
  *
  * @author Liudmyla Zhlobinska
  * @version 10.11 - 11.11
