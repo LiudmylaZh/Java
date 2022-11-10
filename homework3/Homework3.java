@@ -17,5 +17,6 @@ public class Homework3 {
             animal.swim(8);
             animal.swim(12);
         }
+        System.out.println("Count of animals is " +Animal.getCount());
     }
 }
